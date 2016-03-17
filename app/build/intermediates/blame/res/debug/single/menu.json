@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "C:\\Users\\Sony\\Desktop\\WifiDirectMessenger1\\app\\src\\main\\res\\menu\\chat.xml"
+    }
+]
